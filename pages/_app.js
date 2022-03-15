@@ -5,7 +5,7 @@ function Marketplace({ Component, pageProps }) {
   return (
     <div>
       <nav className="border-b p-6">
-        <p className="text-4xl font-bold">PSAFEDELIC Marketplace</p>
+        <p className="text-4xl font-bold">List your Mumbai NFTs</p>
         <div className="flex mt-4">
           <Link href="/">
             <a className="mr-4 text-green-500">
